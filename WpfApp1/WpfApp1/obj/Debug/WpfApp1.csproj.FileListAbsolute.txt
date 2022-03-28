@@ -1,0 +1,190 @@
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\user\Desktop\Акбарс2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\danes\OneDrive\Рабочий стол\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.License.dll
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.Pdf.dll
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.XLS.dll
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.License.xml
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.Pdf.xml
+C:\Users\user\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.XLS.xml
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.License.dll
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.Pdf.dll
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.XLS.dll
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.License.xml
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.Pdf.xml
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.XLS.xml
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\79375\Desktop\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.License.dll
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.Pdf.dll
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.XLS.dll
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.License.xml
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.Pdf.xml
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.XLS.xml
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\akbars (2)\akbars\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.License.dll
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.Pdf.dll
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.XLS.dll
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.License.xml
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.Pdf.xml
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.XLS.xml
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\79375\Desktop\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.License.dll
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.Pdf.dll
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.XLS.dll
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.License.xml
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.Pdf.xml
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Spire.XLS.xml
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\user\Desktop\akbars2\akbars2\akbars\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
